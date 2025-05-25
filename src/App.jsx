@@ -17,7 +17,7 @@ function App() {
         <div className=" p-8 bg-white border border-gray-200 rounded-lg shadow-sm w-full max-w-md">
           <div className="justify-start items-start flex flex-col">
             <h2 className="text-2xl font-bold mb-5">Calculator Number-1</h2>
-            <p>Click the buttons to increase or decrease the number.</p>
+            <p>Click the buttons to preform math operation to the number.</p>
             <div> number is {number}</div>
             <div className="flex space-x-4 mt-6 mb-6 justify-center grid grid-cols-2 gap-4 w-full">
               <button
@@ -62,7 +62,7 @@ function App() {
         <div className=" p-8 bg-white border border-gray-200 rounded-lg shadow-sm w-full max-w-md">
           <div className="justify-start items-start flex flex-col">
             <h2 className="text-2xl font-bold mb-5">Calculator Number-2</h2>
-            <p>Click the buttons to increase or decrease the number.</p>
+            <p>Click the buttons to preform math operation to the number.</p>
             <div> number is {number2}</div>
             <div className="flex space-x-4 mt-6 mb-6 justify-center grid grid-cols-2 gap-4 w-full">
               <button
